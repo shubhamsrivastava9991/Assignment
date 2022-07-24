@@ -23,7 +23,7 @@ public class Methodoverloading {
 		Methodoverloading obj = new Methodoverloading();
 		
 		//Calling Method to add to number and printing the result
-		System.out.println("Addition of two number is: " + obj.calculate(20, 450)); 
+		System.out.println("Addition of two number is: " + obj.calculate(20, 450L)); 
 		
 		//Calling Method to calculate area of circle and printing the result
 		System.out.println("Area of circle is: " + obj.calculate(5));
