@@ -37,7 +37,7 @@ public class Methodoverloading {
 /*
        Output
             
-Addition of two number is: 9000
+Addition of two number is: 470
 Area of circle is: 78
 Area of rectangle is: 750
 
