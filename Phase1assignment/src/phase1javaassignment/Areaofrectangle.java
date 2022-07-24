@@ -18,3 +18,10 @@ public class Areaofrectangle {
 	}
 
 }
+
+/*
+ Output
+ 
+ Area of Rectangle is: 375
+ 
+ */
