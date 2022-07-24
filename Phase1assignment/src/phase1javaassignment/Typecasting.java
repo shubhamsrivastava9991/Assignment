@@ -41,3 +41,16 @@ public class Typecasting {
 	}
 
 }
+
+/*
+           Output
+                 
+The conversion of float datatype value of: 25.678 to long datatype value is: 25
+The conversion of double datatype value of: 89.564879 to long datatype value is:89
+The conversion of long datatype value of: 89 to int datatype value is: 89
+The conversion of int datatype value of: 89 to char datatype value is: Y
+The conversion of long datatype value of: 8954672 to byte datatype value is: 48
+The conversion of int datatype value of: 256 to double datatype value is:256.0
+The conversion of double datatype value of: 256.0 to long datatype value is:256
+ 
+*/
